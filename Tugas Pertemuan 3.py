@@ -1,4 +1,4 @@
-#Himpunan
+#Himpunan bilangan asli kurang dari 10 yang merupakan kelipatan 3 atau 5 adalah 3,5,6,9. Jumlah seluruh bilangan tersebut adalah 23. Hitung jumlah seluruh bilangan asli yang merupakan kelipatan 3 atau 5 dan kurang dari 1000
 
 Jumlah_seluruh_bilangan_asli = 0
 for i in range(1000):
